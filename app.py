@@ -142,9 +142,6 @@ with st.sidebar:
         value=False,
         help="Meningkatkan akurasi dengan menguji beberapa variasi gambar"
     )
-    
-    st.markdown("---")
-    st.info("💡 **Tips Optimasi:**\n- TTA meningkatkan akurasi\n- Gunakan batch prediction untuk multiple images\n- Model di-cache untuk performa optimal")
 
 col1, col2 = st.columns([1, 1])
 
