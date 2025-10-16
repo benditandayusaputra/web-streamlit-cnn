@@ -110,7 +110,7 @@ def apply_image_augmentation(image):
     
     return images
 
-st.title("🖼️ CNN Image Classifier")
+st.title("🖼️ CNN Image Classifier - Group 7")
 st.markdown("---")
 
 with st.sidebar:
