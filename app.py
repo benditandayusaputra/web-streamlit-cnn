@@ -8,7 +8,7 @@ import io
 import os
 
 st.set_page_config(
-    page_title="CNN Image Classifier",
+    page_title="CNN Image Classifier - Group 7",
     page_icon="🖼️",
     layout="wide"
 )
